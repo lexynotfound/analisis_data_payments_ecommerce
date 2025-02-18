@@ -56,6 +56,7 @@ analisis_data/
 3. **Akses dashboard di browser**
    - **Local URL:** `http://localhost:8501`
    - **Network URL:** `http://192.168.1.X:8501`
+   - **Deploy URL:** `https://analystpay.streamlit.app`
 
 ## ⚙️ **Algoritma & Metode yang Digunakan**
 
