@@ -1,0 +1,12 @@
+pandas~=2.2.3
+numpy
+missingno
+seaborn~=0.13.2
+matplotlib~=3.10.0
+streamlit~=1.42.1
+notebook
+pip~=25.0.1
+attrs~=25.1.0
+protobuf~=5.29.3
+pillow~=11.1.0
+watchdog
